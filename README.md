@@ -20,7 +20,7 @@ http://localhost:8080/swagger-ui.html#/customer-resource
 
    POST http://localhost:8080/customers
 
-* Making arequest to non existing source returns a Customized Exception Response Handler
+* Making a request to non existing source returns a Customized Exception Response
 
     GET http://localhost:8080/customers/1000 
 
